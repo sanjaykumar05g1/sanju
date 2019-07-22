@@ -1,0 +1,12 @@
+.viewheight {
+    height: 90vh;
+}
+
+.yourElement {
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+  }
+  html{
+      scroll-behavior:smooth;
+  }
